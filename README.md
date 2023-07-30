@@ -14,6 +14,14 @@
   </table>
 </details>
 
+Hardware part
+============
+* After all the components are there, connect them according to following circuit diagram : 
+  <img alt="Circuit Diagram" width="600" src="https://github.com/PuL5TaR/Ascii-art-generator-py/assets/77431114/b9a8661c-bfeb-4792-a2fd-bc80d71cb221"/>
+* Using a breadboard in connection will be helpful.
+
+<br>
+
 Software part
 ============
 * Download & install the [ Arduino ide ](https://www.arduino.cc/en/software) to upload code to esp8266.
@@ -26,20 +34,13 @@ Software part
 
 How to use
 ============
-After setup go to the base directory of remove-bg.py
+After the Hardware part & Software part is complete : 
 
-run that python file through terminal in that directory
-```
- python remove-bg.py
-```
-To input a specific image file 
-* open remove-bg.py in any text-editor and
-* Inside "main()" method give the relative or full path of Image to "input_path" Variable 
-* The Images like ( .png, .jpg. jpeg .webp etc ) are all allowed
+It will start it operation 
 
-for example : `input_path = 'Images/myCustomImage.png'`
-
-After running the "main.py" you will get the output Image in the same directory in "output.png"
+* It can be powered by the usb cable and a charger
+* But in order to power it on battery a proper power source is required
+     * In this project 2 Li-ion 18650 rechargable batteries are used  
 
 <br>
 <hr>
