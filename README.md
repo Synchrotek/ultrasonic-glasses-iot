@@ -14,6 +14,7 @@
   </table>
 </details>
 
+<br>
 Hardware part
 ============
 * After all the components are there, connect them according to following circuit diagram : 
@@ -21,7 +22,6 @@ Hardware part
 * Using a breadboard in connection will be helpful.
 
 <br>
-
 Software part
 ============
 * Download & install the [ Arduino ide ](https://www.arduino.cc/en/software) to upload code to esp8266.
