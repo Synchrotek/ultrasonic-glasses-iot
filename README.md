@@ -6,8 +6,8 @@ Project Preview
 * Proper preview of this project can be found :
   * [ HERE ](https://www.linkedin.com/posts/satyajit-nayak-42b8a01a1_ultrasonic-glasses-designed-for-people-activity-7090581692050026497-TZze?utm_source=share&utm_medium=member_desktop) on LinkedIn
   * And another Preview [ HERE ](https://www.linkedin.com/posts/satyajit-nayak-42b8a01a1_found-a-cool-use-of-this-ultrasonic-glasses-activity-7090589825342332928-lf6P?utm_source=share&utm_medium=member_desktop)
-* <details open> 
-  <summary> and Here : </summary>
+* <details close> 
+  <summary> and Here : ( click )</summary>
   <br><img alt="Circuit Diagram" width="300" src="https://github.com/PuL5TaR/simple-web-animation-01/assets/77431114/d0ccabbe-df6a-4d9e-86a5-fbcea69f070c"/>
   </details>
 
