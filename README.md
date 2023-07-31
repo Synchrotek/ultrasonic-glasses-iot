@@ -15,12 +15,12 @@ Project Preview
 <details open> 
   <summary><h2>Components Required : </h2></summary>
     <ol>
-      <li>Nodemcu(esp8266)</li>
+      <li>Nodemcu (esp8266)</li>
       <li>Ultrasonic sensor</li>
-      <li>Li-ion Rechargable Battery</li>
       <li>Active buzzer & Led light</li>
       <li>Switch</li>
       <li>Jumper wires</li>
+      <li>Li-ion Rechargable Battery</li>
     </ol>
 </details>
 
