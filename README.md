@@ -1,5 +1,5 @@
 <h1 align="center"><strong>Ultrasonic-glasses-iot</strong></h1>
-<p><h2 align="center">In this repository The The code of the project "Ultrasonic Glasses for blind people" can be found</h2></p>
+<p><h2 align="center">In this repository The The code & proper instruction for the project <br> "Ultrasonic Glasses for blind people" can be found</h2></p>
 
 <details open> 
   <summary><h2>Components Required : </h2></summary>
