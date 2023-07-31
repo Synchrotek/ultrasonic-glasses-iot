@@ -1,6 +1,15 @@
 <h1 align="center"><strong>Ultrasonic-glasses-iot</strong></h1>
 <p><h2 align="center">In this repository The The code & proper instruction for the project <br> "Ultrasonic Glasses for blind people" can be found</h2></p>
 
+Hardware part
+============
+* Proper preview of this project can be found :
+    * [ HERE ](https://www.linkedin.com/posts/satyajit-nayak-42b8a01a1_ultrasonic-glasses-designed-for-people-activity-7090581692050026497-TZze?utm_source=share&utm_medium=member_desktop) on LinkedIn
+    * And another Preview [ HERE ](https://www.linkedin.com/posts/satyajit-nayak-42b8a01a1_found-a-cool-use-of-this-ultrasonic-glasses-activity-7090589825342332928-lf6P?utm_source=share&utm_medium=member_desktop).
+  <br>
+  <img alt="Circuit Diagram" width="600" src="https://github.com/PuL5TaR/Ascii-art-generator-py/assets/77431114/b9a8661c-bfeb-4792-a2fd-bc80d71cb221"/>
+
+<br>
 <details open> 
   <summary><h2>Components Required : </h2></summary>
     <ol>
