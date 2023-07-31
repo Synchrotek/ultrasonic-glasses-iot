@@ -28,7 +28,7 @@ Project Preview
 
 Hardware part
 ============
-* After all the components are there, connect them according to following circuit diagram : 
+* After all the components are there, connect them according to the following circuit diagram : 
    <p></p><img alt="Circuit Diagram" width="600" src="https://github.com/PuL5TaR/Ascii-art-generator-py/assets/77431114/b9a8661c-bfeb-4792-a2fd-bc80d71cb221"/><br>
 * Using a breadboard in connection will be helpful.
   
