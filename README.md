@@ -44,8 +44,8 @@ Hardware part
 
 Software part
 ============
-* Download & install the [ Arduino ide ](https://www.arduino.cc/en/software) to upload code to esp8266.
-* Download & install the esp8266 board in the arduino ide by following [ this ](https://randomnerdtutorials.com/how-to-install-esp8266-board-arduino-ide/).
+* Download & install the <a href="https://www.arduino.cc/en/software" target="_blank">Arduino ide</a> to upload code to esp8266.
+* Download & install the esp8266 board in the arduino ide by following <a href="https://randomnerdtutorials.com/how-to-install-esp8266-board-arduino-ide/" target="_blank">this</a>.
 * Take the code from "ultrasonic_glass.ino" and paste it in a new sketch in the arduino ide.
 * Connect the Nodemcu to your system, and in arduino ide select it's port and board (in tool option).
 * Then click upload code. After the code uploaded the nodemcu will quicky start it's operation.
