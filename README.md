@@ -3,21 +3,13 @@
 
 Project Preview
 ============
-<ul>
-<li>Proper preview of this project can be found :</li>
-   <ul>
-      <li><a href="https://www.linkedin.com/posts/satyajit-nayak-42b8a01a1_ultrasonic-glasses-designed-for-people-activity-7090581692050026497-TZze?utm_source=share&utm_medium=member_desktop" target="_blank">HERE</a> on LinkedIn
-      </li>
-      <li>And another Preview <a href="https://www.linkedin.com/posts/satyajit-nayak-42b8a01a1_found-a-cool-use-of-this-ultrasonic-glasses-activity-7090589825342332928-lf6P?utm_source=share&utm_medium=member_desktop" target="_blank">HERE</a>
-      </li>
-   </ul><br>
-<li>
-  <details open> 
+* Proper preview of this project can be found :
+  * [ HERE ](https://www.linkedin.com/posts/satyajit-nayak-42b8a01a1_ultrasonic-glasses-designed-for-people-activity-7090581692050026497-TZze?utm_source=share&utm_medium=member_desktop) on LinkedIn
+  * And another Preview [ HERE ](https://www.linkedin.com/posts/satyajit-nayak-42b8a01a1_found-a-cool-use-of-this-ultrasonic-glasses-activity-7090589825342332928-lf6P?utm_source=share&utm_medium=member_desktop)
+* <details open> 
   <summary> and Here : </summary>
   <br><img alt="Circuit Diagram" width="300" src="https://github.com/PuL5TaR/simple-web-animation-01/assets/77431114/d0ccabbe-df6a-4d9e-86a5-fbcea69f070c"/>
-   </details>
-</li>
-</ul>
+  </details>
 
 <br>
 <details open> 
@@ -44,8 +36,8 @@ Hardware part
 
 Software part
 ============
-* Download & install the <a href="https://www.arduino.cc/en/software" target="_blank">Arduino ide</a> to upload code to esp8266.
-* Download & install the esp8266 board in the arduino ide by following <a href="https://randomnerdtutorials.com/how-to-install-esp8266-board-arduino-ide/" target="_blank">this</a>.
+* Download & install the [ Arduino ide ](https://www.arduino.cc/en/software/) to upload code to esp8266.
+* Download & install the esp8266 board in the arduino ide by following [ this ](https://randomnerdtutorials.com/how-to-install-esp8266-board-arduino-ide/).
 * Take the code from "ultrasonic_glass.ino" and paste it in a new sketch in the arduino ide.
 * Connect the Nodemcu to your system, and in arduino ide select it's port and board (in tool option).
 * Then click upload code. After the code uploaded the nodemcu will quicky start it's operation.
