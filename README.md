@@ -1,5 +1,6 @@
 <h1 align="center"><strong>Ultrasonic-glasses-iot</strong></h1>
-<p><h2 align="center">In this repository The The code & proper instruction for the project <br> "Ultrasonic Glasses for blind people" can be found</h2></p>
+<p><h2 align="center">In this repository The The code & proper instruction for the project <br> "Ultrasonic Glasses for blind people" can be found</h2>
+</p>
 <hr>
 
 Project Preview
@@ -12,7 +13,16 @@ Project Preview
   <br><img alt="Circuit Diagram" width="300" src="https://github.com/PuL5TaR/simple-web-animation-01/assets/77431114/d0ccabbe-df6a-4d9e-86a5-fbcea69f070c"/>
   </details>
 
-<br>
+<details close> 
+  <summary><h2>Working : </h2></summary>
+    <ol>
+      <li>With this glasses on, A blind people can easily navigate his/her environment.</li>
+      <li>The ultrasonic sensor in the glass measures the distance from an obstacle infront and sends it to the esp8266 microcontroller.</li>
+      <li>The microcontroller then does the logic, so that if the obstacle distance from sensor is less than 35cm, Then it turn on the buzzer and led.</li>
+      <li>Also if the distance gets lower then this alert signal intensifies and vice versa.</li>
+    </ol>
+</details>
+
 <details open> 
   <summary><h2>Components Required : </h2></summary>
     <ol>
@@ -24,7 +34,6 @@ Project Preview
       <li>Li-ion Rechargable Battery</li>
     </ol>
 </details>
-
 <br>
 
 Hardware part
@@ -50,6 +59,7 @@ How to use
 After the Hardware part & Software part is complete : 
 
 It will start it's operation 
+* It can show also show the measure distance from the 
 
 * It can be powered by the usb cable and a charger
 * But in order to power it on battery a proper power source is required
