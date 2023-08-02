@@ -58,12 +58,15 @@ How to use
 ============
 After the Hardware part & Software part is complete : 
 
-It will start it's operation 
-* It can show also show the measure distance from the 
+It will start it's operation.
 
-* It can be powered by the usb cable and a charger
-* But in order to power it on battery a proper power source is required
-     * In this project 2 Li-ion 18650 rechargable batteries are used  
+* It can also show the measured distance from the Obstacle. To see It : 
+  * After following Hardware & software part, connect the circuit again to your system.
+  * In the Arduino Ide open serial monitor and choose the baud rate = 9600.
+
+* It can be powered by the usb cable and a charger.
+* But in order to power it on battery a proper power source is required.
+     * In this project 2 Li-ion 18650 rechargable batteries are used.
 
 <br>
 <hr>
